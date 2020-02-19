@@ -12,7 +12,7 @@ Emmy Phung (Emmyphung)
 
 **Models:** Decision Tree, Random Forest, and Logistic Regression.
 
-**Abstract:**
+**Abstract:**\
 The purpose of this data mining project is to examine how restaurants can improve their Yelp profile to become 
 more “successful” on Yelp in Las Vegas, Nevada.\
 \
