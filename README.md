@@ -3,17 +3,18 @@
 
 
 Project Owners:\
-Elizabeth Combs\
+Elizabeth Combs (lcombs)\
 Anu-Ujin Gerelt-Od\
-Wendy Hou\
-Emmy Phung
+Wendy Hou (hwendy12)\
+Emmy Phung (Emmyphung)
 
+Data source: https://www.kaggle.com/yelp-dataset/yelp-dataset
 
-
+Models: Decision Tree, Random Forest, and Logistic Regression.
 
 ABSTRACT:  
 The purpose of this data mining project is to examine how restaurants can improve their Yelp profile to become 
-more “successful” on Yelp in Las Vegas, Nevada. Different from the traditional approaches to this dataset, 
+more “successful” on Yelp in Las Vegas, Nevada.\ Different from the traditional approaches to this dataset, 
 our methodology defines “success” as a binary variable through an exploratory analysis of the restaurants’ 
 review counts and ratings on Yelp. Feature variables include categories and attributes that Yelp users can use 
 to select which restaurant to visit. For this project, we ran Decision Tree, Random Forest, and Logistic Regression 
