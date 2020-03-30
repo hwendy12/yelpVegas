@@ -1,6 +1,6 @@
 # yelpVegas
 
-
+![Image description](https://www.freepnglogos.com/uploads/yelp-logo-22.png)
 
 **Project Owners:**\
 Elizabeth Combs (lcombs)\
